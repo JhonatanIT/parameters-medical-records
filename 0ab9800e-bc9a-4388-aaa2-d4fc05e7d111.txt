@@ -1,0 +1,706 @@
+Patient Name;, 
+Patient Address: 
+
+D.O.B: 24/09/1932 Gender: F
+Medicare No.: THI No.:
+Lab. Reference:  Provider: 
+Addressee:
+Date Requested: 10/12/2018 Date Performed: 10/12/2018
+Date Collected: 10/12/2018 Complete: Final
+Specimen:
+
+Subject(Test Name): THYROID FUNCTION TEST (TFT-0)
+Clinical Information:
+
+Clinical Notes : For review with elevated prolactin
+
+THYROID PROFILE
+
+
+Specimen Type: Serum
+
+TSH (0.5-4.0) miIU/L 0.73 0.82 0.64 0.46
+
+FT4 (10-20) pmol/L 15 13 13
+
+FT3 (3.5-6.0) pmol/L 4.8
+
+Please note marginally low TSH. This may be a variation of normal or may
+be an early phase of thyroid dysfunction. Suggest follow up review with
+TFTs as clinically appropriate.
+
+Requested Tests : VBF, UMM, TFT, TAA, PRL, PTH, ESR, CRP, CEA, C19, C15, 125, MBA, FE, FBE, DVI,
+COR
+
+
+
+
+
+Date Requested: 10/12/2018 Date Performed: 10/12/2018
+
+Date Collected: 10/12/2018 Complete: Final
+
+Specimen:
+
+Subject(Test Name): VITAMIN D (DVI-0)
+Clinical Information:
+
+Clinical Notes : For review with elevated prolactin
+VITAMIN D
+
+Serum 25(0OH) Vitamin D 108 nmol/L
+
+Suggested decision limits for Vitamin D status:
+
+Sufficiency 51 -200 nmol/L
+Mild deficiency 25 - 50 nmol/L
+Marked deficiency < 25 nmol/L
+Toxicity >250 nmol/L
+
+References: Vitamin:-D and health in adults in Australia and New Zealand:
+Position Statement. MJA 2012 June 18; 196(11),686-687.
+
+Requested Tests : VBF, UMM, TFT*, TAA, PRL, PTH, ESR, CRP, CEA, C19, C15, 125, MBA, FE, FBE,
+DVI, COR
+
+Patient Name:
+Patient Address:
+
+D.O.B:
+Medicare No.: THI No.:
+- Lab. Reference: 
+Addressee: 
+Date Requested: 10/12/2018 Date Performed: 10/12/2018
+Date Collected: 10/12/2018 Complete: Final
+Specimen:
+
+Subject(Test Name): SERUM CORTISOL (COR-0)
+Clinical Information:
+
+Clinical Notes : For review with elevated prolactin
+SERUM CORTISOL
+
+Time 15:36
+Cortisol 188 nmol/L
+
+PM Reference Interval 100-400 nmol/L
+
+Requested Tests : VBF, UMM, TFT*, TAA, PRL, PTH, ESR, CRP, CEA, C19, C15, 125, MBA, FE, FBE,
+DVI*, COR
+
+Patient Name: 
+Patient Address; 
+
+D.O.B: 
+Medicare No.: 
+Lab. Reference: 
+Addressee:  Referred by; 
+Date Requested: 10/12/2018 Date Performed: 10/12/2018
+Date Collected: 10/12/2018 Complete: Final
+Specimen:
+
+Subject(Test Name): IRON STUDIES (FE-0)
+Clinical Information:
+
+Clinical Notes : For review with elevated prolactin
+
+IRON STUDIES
+
+Request Number 
+Date Collected 12 Sep 17 8 Nov 17 30 Apr 18 10 Dec 18
+Time Collected 10:45 14:45 12:05 15:36
+
+Specimen Type: Serum
+
+Iron (10-30) umol/L 40 33 21 27
+
+T' ferrin (32-48) umol/L 24 20 21 22
+
+T. Sat. (13-45) % 85 84 51 63
+
+Ferritin (30-400) ug/L 63 110 115 44
+
+Monitoring of haemochromatosis noted. Current guidelines recommend
+maintaining ferritin levels between 50 and 100 ug/L. (AASLD. Hepatology
+2011; 54:328-43).
+
+Requested Tests’: VBF, UMM, TFT*, TAA, PRL, PTH, ESR, CRP, CEA, C19, C15, 125, MBA, FE, FBE,
+DVI*, COR*
+
+Patient Name; 
+
+Patient Address: 
+
+D.O.B: 24/09/1932 Gender: F
+Medicare No.:  IHI No.:
+
+Lab. Reference: 
+Addressee: 
+
+Date Requested: 10/12/2018 Date Performed:, 10/12/2018
+
+Date Collected: 10/12/2018 | Complete: Final
+Specimen:
+Subject(Test Name): PARATHYROID HORMONE (PTH-0)
+
+Clinical Information:
+
+Clinical Notes :
+
+For review with elevated prolactin
+
+PARATHYROID HORMONE
+
+Request Number
+Date Collected
+
+11744628 14721343
+30 Apr 18 10 Dec 18
+
+Time Collected 12:05 15:36
+Specimen Type: Plasma
+iPTH (1.5-9.9) pmol/L 8.3 9.0
+
+Results do not suggest a parathyroid disorder.
+
+Requested Tests :
+
+DVI*, COR*
+
+VBF, UMM, TFT*, TAA, PRL, PTH, ESR, CRP, CEA, C19, C15, 125, MBA, FE*
+
+e
+
+FBE,
+
+Patient Name: 
+Patient Address: 
+
+D.O.B: 24/09/1932 Gender: F
+Medicare No.:  THI No.:
+Lab. Reference: 
+Addressee: 
+Date Requested: 10/12/2018 Date Performed: 10/12/2018
+Date Collected: 10/12/2018 Complete: Final
+Specimen:
+
+Subject(Test Name): THYROID AUTOANTIBODIES (TAA-0)
+Clinical Information:
+
+Clinical Notes : For review with elevated prolactin
+THYROID AUTOANTIBODIES
+Specimen Type: Serum
+
+Anti-Thyroglobulin Abs (Immulite) 110 TU/mL (< 41)
+Anti-Thyroidal Peroxidase Abs 332 U/mL (< 60)
+
+Over 90% of patients with autoimmune thyroiditis show moderate to high
+levels of Anti-Thyroidal Peroxidase Abs (anti-TPO) with
+Anti-Thyroglobulin Abs (anti-Tg) also present in about 90% of such
+patients. Up to 75% of patients with Graves' hyperthyroidism show
+increased anti-TPO with anti-Tg present in 50-60%. Low levels of both
+anti-TPO and anti-Tg may be found in up to 10% of "normal" asymptomatic
+adults. In most cases of autoimmune thyroid disease increased anti-TPO is
+the predominant finding although a small proportion of patients show a
+predominant increase in anti-Tg.
+
+Requested Tests : VBF, UMM, TFT*, TAA, PRL, PTH*, ESR, CRP, CEA, C19, C15, 125, MBA, FE*, FBE,
+DVI*, COR*
+
+Patient Name: 
+Patient Address: 
+
+D.O.B: 24/09/1932 Gender: F
+Medicare No.:  THI No.:
+Lab. Reference: 
+Addressee: 
+Date Requested: 10/12/2018 Date Performed: 10/12/2018
+Date Collected: 10/12/2018 Complete: Final
+Specimen:
+
+Subject(Test Name): SERUM C.E.A (CEA-0)
+Clinical Information:
+
+Clinical Notes : For review with elevated prolactin
+
+SERUM CARCINO EMBRYONIC ANTIGEN
+
+Request Number 28473096 10809027 11744628 14721343
+Date Collected 7 Jun 17 8 Nov 17 30 Apr 18 10 Dec 18
+Time Collected 12:55 14:45 12:05 15:36
+
+CEA (Bayer) (< 2.6) ug/L 4.2 3.4 4.1 3.4
+
+CEA concentrations may increase due to benign conditions, including liver
+disease, renal failure, pancreatitis and inflammatory bowel disease.
+Smoking may also increase CEA concentrations. CEA measurement has been
+recommended for the ongoing monitoring and surveillance of patients with
+known neoplasia. The test has insufficient sensitivity and specificity
+for diagnostic utility.
+
+Requested Tests : VBF, UMM, TFT*, TAA*, PRL, PTH*, ESR, CRP, CEA, C19, C15, 125, MBA, FE*, FBE,
+DVI*, COR*
+
+Patient Name; 
+
+Patient Address: 
+D.O.B: 24/09/1932 Gender: F
+Medicare No.:  IHI No.:
+
+Lab. Reference: 
+Addressee: 
+
+Date Requested: 10/12/2018 Date Performed: 10/12/2018
+
+Date Collected: 10/12/2018 Complete: Final
+
+Specimen:
+
+Subject(Test Name): CARBOHYDRATE ANTIGEN 19-9 (C19-0)
+Clinical Information:
+
+Clinical Notes : For review with elevated prolactin
+
+SERUM CANCER ANTIGEN 19.9
+
+Request Number 28473096 10809027 11744628 14721343
+Date Collected 7 Jun 17 8 Nov 17 30 Apr 18 10 Dec 18
+Time Collectd 12:55 14:45 12:05 15:36
+CA-19.9 (< 37) U/mL 10 5.0 6.0 7.0
+
+(Bayer Centaur)
+
+Requested Tests : VBF, UMM, TFT*, TAA*, PRL, PTH*, ESR, CRP, CEA*, C19, C15, 125, MBA, FE*, FBE,
+DVI*, COR*
+
+Patient Name: 
+Patient Address: 
+
+D.O.B: 24/09/1932 Gender: F
+Medicare No.:  THI No.:
+Lab. Reference: 
+Addressee: DRINNA LIEB Referred by: DR. INNA LIEB
+Date Requested: 10/12/2018 Date Performed: 10/12/2018
+Date Collected: 10/12/2018 Complete: Final
+Specimen:
+
+Subject(Test Name): CANCER ANTIGEN 125 (125-0)
+Clinical Information:
+
+Clinical Notes : For review with elevated prolactin
+
+SERUM CANCER ANTIGEN 125
+
+Request Number 28473096 10809027 11744628 14721343
+Date Collected 7 Jun 17 8 Nov 17 30 Apr 18 10 Dec 18
+Time Collected 12:55 14:45 12:05 15:36
+
+CA125 (< 35) U/mL 17 11 15 13
+
+Requested Tests : VBF, UMM, TET*, TAA*, PRL, PTH*, ESR, CRP, CEA*, C19*, C15, 125, MBA, FE*
+FBE, DVI*, COR*
+
+Patient Name; 
+Patient Address: 
+
+D.O.B: 24/09/1932 Gender: F
+Medicare No.:  THI No.:
+Lab. Reference: 
+Addressee: 
+Date Requested: 10/12/2018 Date Performed: 10/12/2018
+Date Collected: 10/12/2018 | Complete: Final
+Specimen:
+
+Subject(Test Name): B12, FOLATE, R.C.FOLATE (VBF-0)
+Clinical Information:
+
+Clinical Notes : For review with elevated prolactin
+
+VITAMIN Bl2 AND FOLATE STUDIES
+
+Request Number 28473096 10809027 11744628 14721343
+Date Collected 7 Jun 17 8 Nov 17 30 Apr 18 10 Dec 18
+Time Collected 12:55 14:45 12:05 15:36
+
+B12 (301-740) pmol/L 252 408 860 537
+
+Active B12 (> 36) pmol/L > 128
+
+Serum Folate (> 9.0)nmol/L 23.1 23.2 25.0 33.6
+
+Folate Interpretation:
+
+| | DEFICIENCY | BORDERLINE | SUFFICIENCY |
+| pre nen enn nee pon--- +--+ $----------~-------+- $o-ee--------- |
+| Serum Folate: | <4.5 nmol/L | 4.5 - 9.0 nmol/L | >9.0 nmol/L |
+| --------------- $------------- $-—----------------- $o---+-------- |
+| RBC Folate: | <340 nmol/L | 340 - 570 nmol/L | >570 nmol/L |
+
+Serum Folate Assay:
+In the absence of recent oral intake, a serum folate >9.0 nmol/L
+effectively rules out folate deficiency.
+
+Please note that Medicare requirements for folate testing reflect current
+best practice. Red cell folate will be reserved for patients with
+borderline values for serum folate (between 4.5 and 9.0 nmol/L.)
+
+Requested Tests : VBF, UMM, TFT*, TAA*, PRL, PTH*, ESR, CRP, CEA*, C19*, C15, 125*, MBA, FE*
+FBE, DVI*, COR*
+
+Patient Name: 
+Patient Address: 
+
+D.O.B: 24/09/1932 Gender: F
+Medicare No.:  THI No.:
+Lab. Reference: 
+Addressee: 
+Date Requested: 10/12/2018 Date Performed: 10/12/2018
+Date Collected: 10/12/2018 Complete: Final
+Specimen:
+
+Subject(Test Name): SERUM CHEMISTRY (MBA-0)
+Clinical Information:
+
+Clinical Notes : For review with elevated prolactin
+
+SERUM CHEMISTRY
+
+Request Number 10289756 10809027 11744628 14721343
+Date Collected 12 Sep 17 8 Nov 17 30 Apr 18 10 Dec 18
+Time Collected 10:45 14:45 12:05 15:36
+
+Specimen Type: Serum
+
+Haemolysis Nil Nil Nil Nil
+
+Icterus Nil Nil Nil Nil
+
+Lipaemia Nil Nil Nil Nil
+
+Na (135-145) mmol/L 140 142 138 138
+
+K (3.6-5.4) mmol/L 4.5 4.0 3.8 4.2
+
+Cl (95-110) mmol/L 106 108 101 106
+HCO3 (22-32) mmol/L 24 24 26 25
+An Gap (10-20) mmol/L 14 14 15 11
+Urea (3.0-10.0) mmol/L 6.5 5.7 2.3 6.7
+Creat (45-90) umol/L 45 55 40 55
+eGFR mL/min/1.73m*2 88 83 > 90 81
+Urate (0.14-0.36) mmol/L 0.28 0.14 0.21
+Bili (< 15) umol/L 13 13 10 9
+AST (< 35) U/L 25 26 26 19
+ALT (< 30) U/L 20 17 17 13
+GGT (< 35) U/L 11 12 12 12
+Alk Phos (30-115) U/L 65 60 70 62
+Protein (60-82) g/L 69 63 68 65
+Albumin (36-48) g/L 41 39 43 41
+Glob (20-39) g/L 28 24 25 24
+Ca (2.10-2.60) mmol/L 2.39 2.43 2.41 2.41
+Corr Ca (2.10-2.60) mmol/L 2.43 2.51 2.41 2.45
+PO4 (0.75-1.50) mmol/L 1.00 1.95 1.01 1.24
+CPK (< 211) U/L 160 64 68
+Amylase (< 121) U/L 55 57 73
+Lipase (6-70) U/L 32 29 38
+Mg (0.70-1.10) mmol/L 0.82 0.86 0.90
+
+eGFR values between 60 and 89 mL/min/1.73m2 should be interpreted with
+caution. These results are only consistent with CKD in the presence of
+other evidence such as microalbuminuria, proteinuria or haematuria.
+Ref:Lamb EJ etal in Ann Clin Biochem 2005; 42:321-345.
+
+Requested Tests : VBF*, UMM, TFT*, TAA*, PRL, PTH*, ESR, CRP, CEA*, C19*, C15, 125*, MBA, FE*
+FBE, DVI*, COR*
+
+Patient Name: 
+Patient Address: 
+
+D.O.B: 24/09/1932 Gender: F
+Medicare No.:  IHI No.:
+Lab. Reference: 
+Addressee: DRINNA LIEB Referred by: DR. INNA LIEB
+Date Requested: 10/12/2018 Date Performed: 10/12/2018
+Date Collected: 10/12/2018 Complete: Final
+Specimen:
+
+Subject(Test Name): SERUM PROLACTIN (PRL-0)
+Clinical Information:
+
+Clinical Notes : For review with elevated prolactin
+
+PROLACTIN
+
+Specimen Type: Serum
+
+Request Date Prolactin
+Number Collected mIU/L
+
+Ref Range (40-570)
+
+24623334 01/11/16 114
+28473096 07/06/17 84
+10289756 12/09/17 90
+10809027 08/11/17 121
+12519902 25/05/18 78
+14721343 10/12/18 92
+
+Requested Tests : VBF*, UMM, TFT*, TAA*, PRL, PTH*, ESR, CRP, CEA*, C19*, C15, 125*, MBA, FE*,
+FBE, DVI*, COR*
+
+Subject(Test Name):
+
+Patient Name:
+Patient Address:
+
+D.O.B: 24/09/1932
+
+Medicare No.:
+Lab. Reference:
+Addressee:
+
+Date Requested
+Date Collected
+Specimen
+
+
+
+: 10/12/2018
+: 10/12/2018
+
+Clinical Information:
+
+Clini
+
+cal Notes :
+
+Request Number
+
+Date
+Time
+Spe
+CRP
+
+Requ
+FBE,
+
+Collected
+Collected
+
+
+
+
+
+
+
+Date Performed:
+
+C-REACTIVE PROTEIN (CRP-0)
+
+For review with elevated prolactin
+
+C-REACTIVE PROTEIN
+10809027 11744628
+
+7 Jun 17
+
+cimen Type: Serum
+
+(< 6.0)
+
+ested Tests
+DVI*, COR*
+
+mg/L
+
+: VBF*, UMM,
+
+28473096
+12:55
+< 4.0
+
+TFET*, TAA*,
+
+8 Nov 17
+
+14:45
+< 4.0
+
+PRL*, PTH*,
+
+‘ Gender:
+
+F
+
+JHI No.:
+
+Provider:
+Referred by:
+
+Laverty Pathology
+DR. INNA LIEB
+
+10/12/2018
+
+Complete: Final
+
+30 Apr 18
+
+12:05
+
+< 4.0
+
+14721343
+10 Dec 18
+15:36
+
+< 4.0
+
+ESR, CRP, CEA*, C19*,
+
+C15,
+
+125*,
+
+MBA*,
+
+FE*
+
+t
+
+Patient Name: 
+Patient Address: 
+
+D.O.B: 24/09/1932 Gender: F
+Medicare No.:  THI No.:
+Lab. Reference: 
+Addressee: 
+Date Requested: 10/12/2018 Date Performed: 10/12/2018
+‘Date Collected: 10/12/2018. Complete: Final
+Specimen:
+
+Subject(Test Name); CARBOHYDRATE ANTIGEN 15-3 (C15-0)
+Clinical Information:
+
+Clinical Notes : For review with elevated prolactin
+
+SERUM CANCER ANTIGEN 15.3
+
+Request Number 28473096 10809027 11744628 14721343
+
+Date Collected 7 Jun 17 8 Nov 17 30 Apr 18 10 Dec 18
+Time Collected 12:55 14:45 12:05 15:36
+CA-15.3 (< 39) U/mL 17 12 20 18
+
+(Bayer Centaur)
+
+Requested Tests : VBF*, UMM, TET*, TAA*, PRL*, PTH*, ESR, CRP*, CEA*, C19*, C15, 125*, MBA*
+FE*, FBE, DVI*, COR*
+
+Patient Name: 
+Patient Address: 
+
+D.O.B: 24/09/1932 Gender: F
+Medicare No.;  THI No.:
+Lab. Reference: 
+Addressee: 
+Date Requested: 10/12/2018 Date Performed: 10/12/2018
+Date Collected: 10/12/2018 Complete: Final
+Specimen:
+
+Subject(Test Name): URINE MICRO/CULTURE (UMM-0)
+Clinical Information:
+
+Clinical Notes : For review with elevated prolactin
+
+URINE EXAMINATION
+
+Specimen Midstream
+CHEMISTRY ; MICROSCOPY
+
+pH 6.5 Leucocytes 5 x10°6 /L (< 10)
+Protein nil Erythrocytes 46 x10*6 /L (< 10)
+Glucose nil Epithelial cells 2 x10°6 /L (< 10)
+Blood +
+
+A urine with these results is not usually infected. Although culture has
+been performed, a further report will only be issued if the culture is
+positive.
+
+Haematuria noted.
+
+Requested Tests : VBF*, UMM, TFT*, TAA*, PRL*, PTH*, ESR, CRP*, CEA*, C19*, Ci5*, 125*, MBA*
+FE*, FBE, DVI*, COR*
+
+Patient Name; 
+Patient Address; 
+
+D.O.B: 24/09/1932 Gender: F
+Medicare No.:  THI No.:
+Lab. Reference: 
+Addressee: DRINNA LIEB Referred by: DR. INNA LIEB
+Date Requested: 10/12/2018 Date Performed: 10/12/2018
+Date Collected: 10/12/2018 Complete: Final
+Specimen:
+
+Subject(Test Name): E.S.R (ESR-0)
+Clinical Information:
+
+Clinical Notes : For review with elevated prolactin
+
+HAEMATOLOGY
+
+Request Number 10289756 10809027 11744628 14721343
+Date Collected 12 Sep 17 8 Nov 17 30 Apr 18 10 Dec 18
+Time Collected 10:45 14:45 12:05 15:36
+Specimen Type: EDTA
+
+ESR (< 30) mm/hr 2 2 5 2
+
+Requested Tests : VBF*, UMM*, TFT*, TAA*, PRL*, PTH*, ESR, CRP*, CEA*, C19*, C15*, 125*, MBA*
+FE*, FBE, DVI*, COR*
+
+Patient Name: 
+
+Patient Address; 
+D.O.B: 24/09/1932 Gender: F
+Medicare No.:  IHI No.:
+
+Lab. Reference: 
+Addressee: 
+
+Date Requested: 10/12/2018 Date Performed: 10/12/2018
+
+Date Collected: 10/12/2018 Complete: Final
+
+Specimen:
+
+Subject(Test Name): HAEMATOLOGY (FBE-0)
+Clinical Information:
+
+Clinical Notes : For review with elevated prolactin
+
+HAEMATOLOGY
+Request Number 10289756 10809027 11744628 14721343
+Date Collected 12 Sep 17 8 Nov 17 30 Apr 18 10 Dec 18
+Time Collected 10:45 14:45 12:05 15:36
+Specimen Type: EDTA
+Hb (115-165) g/L 141 125 141 130
+Hct (0.34-0.47) 0.43 0.37 0.41 0.40
+RCC (3.9-5.8) x10°12 /L 4.1 3.7 4.0 3.8
+MCV (79-99) £L 104 103 102 105
+MCH (27-34) pg 35 34 35 35
+MCHC (320-360) g/L 332 334 347 329
+RDW (10.0-17.0) $% 12.9 13.0 12.6 12.8
+WBC (4.0-11.0) *10°9 /L 7.2 6.4 6.4 5.6
+Neut (2.0-7.5) x10°9 /L 4.4 3.2 4.2 2.7
+Lymph (1.0-4.0) x10*°9 /L 1.8 2.1 1.3 1.9
+Mono (0.2-1.0) x10*9 38/L 0.7 0.7 0.6 0.7
+Eos (< 0.7) x10*9) «=/L 0.2 0.3 0.3 0.2
+Baso (< 0.2) x10*°9 /L 0.1 0.1 0.1 0.1
+Plat (150-400) x10*9 /L 195 176 200 202
+
+HAEMATOLOGY: Macrocytic blood picture.
+
+Requested Tests : VBF*, UMM*, TFT*, TAA*, PRL*, PTH*, ESR*, CRP*, CEA*, C19*, C15*, 125*, MBA*,
+FE*, FBE, DVI*, COR*
+

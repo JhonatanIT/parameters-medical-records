@@ -1,0 +1,75 @@
+Patient Name ee Barcode ; [eennnennninittte
+
+ 
+
+Age: Gender : 64/Female Sample Collected On : 03/Mar/2022 07:16AM
+Order Id : 483940780 Sample Received On : 03/Mar/2022 11:54AM
+Referred By : Self Report Generated On : 03/Mar/2022 12:57PM
+Customer Since : 03/Mar/2022 Sample Temperature : Maintained Y
+Sample Type : Whole Blood EDTA Report Status : Final Report
+DEPARTMENT OF BIOCHEMISTRY HBAIC
+Test Name Value Unit Bio. Ref Interval
+
+HbAlIc - Glycated Hemoglobin
+
+Hbalc (Glycosylated Hemoglobin) | 10.50 % 4.2-5.7
+Method: HPLC
+
+Average Estimated Glucose - plasma 254.65 mg/dt
+
+Method: Calculated
+
+INTERPRETATION:
+
+        
+  
+  
+ 
+ 
+ 
+ 
+  
+
+AS PER AMERICAN DIABETES ASSOCIATION (ADA): +
+
+REFERENCE GROUP GLYCOSYLATED HEMOGLOBIN (HBA‘Cc) in %
+Non diabetic <5.7
+At Risk (Prediabetes) 5.7 -6.4
+Diagnosing Diabetes >=6.5
+
+Age > 19 Years
+
+Goals of Therapy: <7.0
+Actions Suggested: >8.0
+Therapeutic goals for glycemic control Age < 19 Years
+
+| Goal of thera
+
+   
+
+REMARKS
+
+1. HbA1c is used for monitoring diabetic control. It reflects the mean plasma glucose over three months
+
+2. HbAic may be falsely low in diabetics with hemolytic disease. In these individuals a plasma fructosamine level may be used which evaluates diabetes over 15
+days.
+
+3. Inappropriately low HbA1c values may be reported due to hemolysis, recent blood transfusion, acute blood loss, hypertriglyceridemia, chronic liver disease.
+Drugs like dapsone, ribavinn, antiretroviral drugs, trimethoprim, may also cause interference with estimation of HbA1c, causing falsely low values.
+
+4. HbA1c may be increased in patients with polycythemia or post-splenectomy.
+
+5. Inappropriately higher values of HbA1c may be caused due to iron deficiency, vitamin B12 deficiency, alcohol intake, uremia, hyperbilirubinemia and large doses
+of aspirin. -
+
+6. Trends in HbA1c are a better indicator of diabetic control than a solitary test. 7. Any sample with >15% HbA1c should be suspected of having a hemoglobin
+vanant, especially in a non-diabetic patient. Similarly, below 4% should prompt additional studies to determine the possible presence of variant hemoglobin.
+
+8. HbA 1c target in pregnancy is to attain level <6 % .
+
+9. HbA‘1c target in paediatric age group is to attain level < 7.5 %.
+
+Method : lon-exchange high-performance liquid chromatography (HPLC).
+
+Reference : American Diabetes Associations. Standards of Medical Care in Diabetes 2015
+

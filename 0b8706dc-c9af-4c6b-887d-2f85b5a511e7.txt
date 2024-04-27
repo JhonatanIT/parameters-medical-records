@@ -1,0 +1,1755 @@
+Patient Health Summary
+
+removed
+
+removed
+
+
+D.O.B.: 
+
+Record No.:
+
+Home Phone:
+
+Work Phone:
+
+removed
+
+Printed on 27th February 2024
+
+ 
+
+Investigations:
+
+removed
+
+removed
+
+removed
+
+remoed
+
+Laboratory: dhm
+
+removed
+
+Name of Test: MSU
+Requested: 30/01/2024 Collected: 30/01/2024 Reported: 13/02/2024 17:17
+
+Clinical notes: 2? UTI
+
+Clinical Notes : ? UTI
+
+Urine
+
+pH 7 Protein Nil Glucose Nil
+
+Blood Nil Ketones Nil
+
+Specific gravity 1.012 (1.005 - 1.030)
+
+Microscopy
+
+Leucocytes 5 x10*6/L ( <10 )
+Erythrocytes H 14 x10*6/L ( <10 )
+Epithelial cells 5 x10*6/L
+
+Growth of bowel/perineal flora
+Comment on Lab ID 887475034
+
+UTI is unlikely without a high white cell count in urine.
+
+NATA Accreditation No 2178
+
+Tests Completed: MSU
+Tests Pending
+Sample Pending
+
+removed
+
+removed
+
+removed
+
+remoed
+
+Laboratory: dhm
+
+removed
+
+Copy to:
+
+removed
+
+removed
+
+Name of Test: Rubella IgG, IgM
+
+Requested: 30/01/2024 Collected: 31/01/2024 Reported: 13/02/2024 17:17
+Clinical notes: pregnancy planning
+
+Clinical Notes : pregnancy planning
+
+Rubella Serology
+Rubella IgG (CMIA) 11 IU/mL
+
+Comment on Lab ID 838828312
+
+<5 IU/mL: Not immune
+5-9 IU/mL: Equivocal
+>/=10 IU/mL: Immune
+
+Antibody detected. In an asymptomatic individual this result is consistent
+with past infection or vaccination and correlates with protective
+immunity.
+
+NATA Accreditation No 2178
+
+Tests Completed: LFT(s),C(s),UCreat(s),E(s),Glu(s),Phos(s),Iron(s),
+Lipids HDL(s),Ca(s),Mg(s),Vit D(s),TSH(s),HBsAb(s),
+HB-Sero, FBC (e) ,RubG(s)
+
+Tests Pending
+
+Sample Pending
+
+removed
+
+removed
+
+removed
+
+remoed
+Your Reference: Lab Reference: removed
+
+Laboratory: dhm
+
+removed
+
+Copy to:
+
+removed
+
+Name of Test: Biochemistry
+
+Requested: 30/01/2024 Collected: 31/01/2024 Reported: 13/02/2024 17:17
+Clinical notes: pregnancy planning
+Clinical Notes : pregnancy planning
+
+BIOCHEMISTRY
+
+Date 29/01/19 28/07/23 14/08/23 31/01/24
+
+Time F-Fast 1640 0839 F 1248 0727 F
+
+Lab ID 295348768 885515368 887902883 838828312 Units Reference
+Status Fasting Fasting
+
+Sodium 140 L 134 139 140 mmol/L (135-145)
+Potassium 4.9 5.5 4.8 4.5 mmol/L (3.5-5.5)
+Chloride 106 106 107 106 mmol/L (95-110)
+Bicarbonate 23 21 21 25 mmol/L (20-32)
+Urea 4.0 4.8 5.3 5.1 mmol/L (2.5-7.0)
+Creatinine 70 70 65 65 umol/L (45-85)
+eGFR >90 >90 >90 >90 mL/min/1.73m2 (>59)
+Calcium 2.40 mmol/L (2.15-2.55)
+Corr Calcium 2.34 mmol/L (2.15-2.55)
+Magnesium. 0.84 mmol/L (0.65-1.00)
+Phosphate. 1.08 mmol/L (0.8-1.5)
+
+removed
+
+Bili.Total 11 H 20 H 18 umol/L (3-15)
+
+ALP 59 60 70 U/L (20-105)
+GGT 13 11 15 U/L (5-35)
+
+LD 187 203 178 U/L (120-250)
+AST 19 25 23 U/L (10-35)
+ALT 16 12 22 U/L (5-30)
+Total Protein 76 70 72 g/L (68-85)
+Albumin 46 44 46 g/L (37-48)
+Globulin 30 26 26 g/L (23-39)
+Cholesterol 4.7 mmol/L (<5.5)
+Triglycerides 0.6 mmol/L (<2.0)
+
+Comments on Collection 31/01/24 0727 F:
+eGFR (mL/min/1.73m2) calculated by CKD-EPI formula - see www.kidney.org.au
+
+NATA Accreditation No 2178
+
+Tests Completed: LFT(s),C(s),UCreat(s),E(s),Glu(s),Phos(s),Iron(s),
+Lipids HDL(s),Ca(s),Mg(s),Vit D(s),TSH(s),HBsAb(s),
+HB-Sero, FBC (e) ,RubG(s)
+
+Tests Pending
+
+Sample Pending
+
+removed
+
+removed
+
+removed
+
+remoed
+Your Reference: Lab Reference: removed
+
+Laboratory: dhm
+
+removed
+
+Copy to:
+
+removed
+
+Name of Test: _ Glucose
+
+Requested: 30/01/2024 Collected: 31/01/2024 Reported: 13/02/2024 17:17
+Clinical notes: pregnancy planning
+Clinical Notes : pregnancy planning
+
+GLUCOSE
+
+Date 23/12/17 24/09/18 28/07/23 31/01/24
+
+Time F-Fast 0825 F 1100 0839 F 0727 F
+
+Lab ID 266516640 282139635 885515368 838828312 Units Reference
+F Gluc Plasma 4.5 4.7 mmol/L (3.6-6.0)
+R Gluc Plasma 4.5 mmol/L (3.6-7.8)
+F Gluc Serum 4.8 mmol/L (3.6-6.0)
+
+Comments on Collection 31/01/24 0727 F:
+
+Diabetes is unlikely if fasting glucose levels are less than 5.5 mmol/L but
+an OGTT could be indicated in the presence of risk factors such as
+metabolic syndrome, past gestational diabetes, polycystic ovary or family
+history of type 2 diabetes.
+
+NATA Accreditation No 2178
+
+Tests Completed: LFT(s),C(s),UCreat(s),E(s),Glu(s),Phos(s),Iron(s),
+Lipids HDL(s),Ca(s),Mg(s),Vit D(s),TSH(s),HBsAb(s),
+HB-Sero, FBC (e) ,RubG(s)
+
+Tests Pending
+
+Sample Pending
+
+removed
+removed
+
+removed
+
+removed
+
+remoed
+Your Reference: Lab Reference: removed
+
+Laboratory: dhm
+
+removed
+
+Copy to:
+
+removed
+
+Name of Test: Iron Studies
+
+Requested: 30/01/2024 Collected: 31/01/2024 Reported: 13/02/2024 17:17
+Clinical notes: pregnancy planning
+Clinical Notes : pregnancy planning
+
+IRON
+
+Date 23/12/17 29/01/19 28/07/23 31/01/24
+
+Time F-Fast 0825 F 1640 0839 F 0727 F
+
+Lab ID 266516640 295348768 885515368 838828312 Units Reference
+Tron 11.5 12.2 24.9 umol/L (5.0-30.0)
+Transferrin 2.2 2.5 2.7 g/L (2.0-3.6)
+TIBC (Calc) 50 56 60 umol/L (46-77)
+Saturation 23 22 42 % (10-45)
+Ferritin 38 719 39 47 ug/L (15-200)
+
+NATA Accreditation No 2178
+
+Tests Completed: LFT(s),C(s),UCreat(s),E(s),Glu(s),Phos(s),Iron(s),
+Lipids HDL(s),Ca(s),Mg(s),Vit D(s),TSH(s),HBsAb(s),
+HB-Sero, FBC (e) ,RubG(s)
+
+Tests Pending
+
+Sample Pending
+
+removed
+
+removed
+
+removed
+
+remoed
+Your Reference: Lab Reference: removed
+
+Laboratory: dhm
+
+removed
+
+Copy to:
+
+removed
+
+Name of Test: Lipids HDL(s)
+
+Requested: 30/01/2024 Collected: 31/01/2024 Reported: 13/02/2024 17:17
+Clinical notes: pregnancy planning
+Clinical Notes : pregnancy planning
+
+Date 23/12/17 31/01/24
+
+Time F-Fast 0825 F 0727 F
+
+Lab ID 266516640 838828312 Units Reference
+Status Fasting Fasting
+
+Cholesterol L 3.8 4.7 mmol/L (<5.5)
+Triglycerides 0.5 0.6 mmol/L (<2.0)
+HDL Chol. 1.6 2.0 mmol/L (>1.2)
+LDL Chol. 2.0 2.4 mmol/L (<3.0)
+Non-HDL Chol. a | mmol/L (<4.0)
+
+Comments on Collection 31/01/24 0727 F:
+
+Please note that the above reference limits are decision limits.
+
+A flag based on these limits is an indication to review the absolute
+cardiovascular risk for the patient. For assessment of absolute
+cardiovascular disease risk please see www.cvdcheck.org.au
+
+removed
+
+The above decision limits are based on the European Atherosclerosis Society
+(EAS) and European Federation of Clinical Chemistry and Laboratory Medicine
+(EFLM) Consensus Statement 2016 and the Australasian Association of
+Clinical Biochemistry and Laboratory Medicine (AACB) Lipid Reporting
+Guideline 2018.
+
+Lipid treatment targets for patients at high risk of cardiovascular
+disease:
+
+Total cholesterol <4.0 mmol/L
+
+Triglyceride <2.0 mmol/L
+
+HDL cholesterol >1.0 mmol/L
+
+LDL cholesterol <2.5 mmol/L (<1.8 mmol/L for very high risk)
+Non-HDL cholesterol <3.3 mmol/L (<2.5 mmol/L for very high risk)
+High risk - Primary prevention Very high risk - Secondary prevention
+
+Target values from the AACB Lipid Reporting Guideline 2018.
+
+Please note that as there is a continuum of risk, benefits are obtained for
+any measured lipid components moving towards and beyond the various target
+levels.
+
+NATA Accreditation No 2178
+
+Tests Completed: LFT(s),C(s),UCreat(s),E(s),Glu(s),Phos(s),Iron(s),
+Lipids HDL(s),Ca(s),Mg(s),Vit D(s),TSH(s),HBsAb(s),
+HB-Sero, FBC (e) ,RubG(s)
+
+Tests Pending
+
+Sample Pending
+
+removed
+
+removed
+
+removed
+
+remoed
+Your Reference: Lab Reference: removed
+
+Laboratory: dhm
+
+removed
+
+Copy to:
+
+removed
+
+Name of Test: Haematology
+
+Requested: 30/01/2024 Collected: 31/01/2024 Reported: 13/02/2024 17:17
+Clinical notes: pregnancy planning
+Clinical Notes : pregnancy planning
+
+HAEMATOLOGY
+
+Date 24/09/18 29/01/19 28/07/23 31/01/24
+
+Time F-Fast 1100 1640 0839 F 0727 F
+
+Lab ID 282139635 295348768 885515368 838828312 Units Reference
+Haemoglobin 124 128 127 134 g/L (119-160)
+RCC 4.2 4.3 4.2 4.5 x10*12/L (3.8-5.8)
+Haematocrit 0.38 0.38 0.37 0.41 (0.35-0.48)
+MCV 90 88 87 92 £L (80-100)
+MCH 29.6 29.8 30.0 29.9 pg (27.0-32.0)
+MCHC 328 338 344 325 g/L (310-360)
+RDW 11.9 11.9 12.4 13.0 (10.0-15.0)
+wcc 7.7 8.4 9.3 7.9 x10*9/L (4.0-11.0)
+Neutrophils 4.32 4.50 4.69 4.11 x10*9/L (2.0-7.5)
+Lymphocytes 2.77 2.96 3.67 2.96 x10*9/L (1.0-4.0)
+Monocytes 0.52 0.76 0.63 0.59 x10*9/L (0.0-1.0)
+Eosinophils 0.07 0.11 0.22 0.17 x10*9/L (0.0-0.5)
+Basophils 0.04 0.07 0.04 0.04 x10*9/L (0.0-0.3)
+NRBC <1.0 <1.0 <1.0 <1.0 /100 WBC (<1)
+
+removed
+
+Platelets 221 267 234 261 x10*9/L (150-450)
+ESR 1 mm/h (1-22)
+
+Comments on Collection 31/01/24 0727 F:
+Full blood count is within reference limits
+
+NATA Accreditation No 2178
+
+Tests Completed: LFT(s),C(s),UCreat(s),E(s),Glu(s),Phos(s),Iron(s),
+Lipids HDL(s),Ca(s),Mg(s),Vit D(s),TSH(s),HBsAb(s),
+HB-Sero, FBC (e) ,RubG(s)
+
+Tests Pending
+
+Sample Pending
+
+removed
+
+removed
+
+removed
+
+remoed
+
+Laboratory: dhm
+
+removed
+
+Copy to:
+
+removed
+
+Name of Test: Hep B Serology
+
+Requested: 30/01/2024 Collected: 31/01/2024 Reported: 13/02/2024 17:17
+Clinical notes: pregnancy planning
+Clinical Notes : pregnancy planning
+
+Hepatitis B Serology
+Hepatitis B Surface Ab 31 IU/L
+Comment on Lab ID 838828312
+
+Hepatitis B - Immune (>/=10 IU/L).
+
+NATA Accreditation No 2178
+
+Tests Completed: LFT(s),C(s),UCreat(s),E(s),Glu(s),Phos(s),Iron(s),
+Lipids HDL(s),Ca(s),Mg(s),Vit D(s),TSH(s),HBsAb(s),
+HB-Sero, FBC (e) ,RubG(s)
+
+Tests Pending
+
+Sample Pending
+
+removed
+
+removed
+
+removed
+
+remoed
+
+Laboratory: dhm
+
+removed
+
+Copy to:
+
+removed
+
+Name of Test: Thyroid Function
+
+Requested: 30/01/2024 Collected: 31/01/2024 Reported: 13/02/2024 17:17
+Clinical notes: pregnancy planning
+Clinical Notes : pregnancy planning
+
+TET
+
+removed
+
+Date 23/12/17 24/09/18 14/08/23 31/01/24
+
+Time F-Fast 0825 F 1100 1248 0727 F
+Lab ID 266516640 282139635 887902883 838828312 Units Reference
+TSH 1.14 1.18 1.57 2.99 milU/L (0.40-3.50)
+
+NATA Accreditation No 2178
+
+Tests Completed: LFT(s),C(s),UCreat(s),E(s),Glu(s),Phos(s),Iron(s),
+Lipids HDL(s),Ca(s),Mg(s),Vit D(s),TSH(s),HBsAb(s),
+HB-Sero, FBC (e) ,RubG(s)
+
+Tests Pending
+
+Sample Pending
+
+removed
+
+removed
+
+removed
+
+remoed
+Your Reference: Lab Reference: removed
+
+Laboratory: dhm
+
+removed
+
+Copy to:
+
+removed
+
+Name of Test: Vit D(s)
+
+Requested: 30/01/2024 Collected: 31/01/2024 Reported: 13/02/2024 17:17
+Clinical notes: pregnancy planning
+Clinical Notes : pregnancy planning
+
+Date 28/07/23 31/01/24
+
+Time F-Fast 0839 F 0727 F
+
+Lab ID 885515368 838828312 Units Reference
+Vitamin D 73 83 nmol/L (50-140)
+
+Comments on Collection 31/01/24 0727 F:
+
+According to the Position Statement 'Vitamin D and health in adults in
+Australia and New Zealand' MJA, 196(11):686-687, 2012, Vitamin D status is
+defined as:
+
+Mild Deficiency 30 - 49 nmol/L
+Moderate Deficiency 12.5 - 29 nmol/L
+Severe Deficiency <12.5 nmol/L
+
+Vitamin D adequacy can be defined as a level >49 nmol/L at the end of
+winter - the level may need to be 10 - 20 nmol/L higher at the end of
+summer, to allow for seasonal decrease.
+
+From lst November 2014, Medicare rebates for vitamin D testing will apply
+to patients at risk of Vitamin D deficiency such as chronic lack of sun
+exposure.
+
+NATA Accreditation No 2178
+
+Tests Completed: LFT(s),C(s),UCreat(s),E(s),Glu(s),Phos(s),Iron(s),
+Lipids HDL(s),Ca(s),Mg(s),Vit D(s),TSH(s),HBsAb(s),
+HB-Sero, FBC (e) ,RubG(s)
+
+Tests Pending
+
+Sample Pending
+
+removed
+
+removed
+
+removed
+
+remoed
+
+removed
+
+Laboratory: dhm
+
+removed
+Copy to:
+removed
+
+Name of Test: Haematology
+
+Requested: 30/01/2024 Collected: 31/01/2024 Reported: 31/01/2024 11:47
+Clinical notes: pregnancy planning
+Clinical Notes : pregnancy planning
+
+HAEMATOLOGY
+
+Date 24/09/18 29/01/19 28/07/23 31/01/24
+
+Time F-Fast 1100 1640 0839 F 0727 F
+
+Lab ID 282139635 295348768 885515368 838828312 Units Reference
+Haemoglobin 124 128 127 134 g/L (119-160)
+RCC 4.2 4.3 4.2 4.5 x10*12/L (3.8-5.8)
+Haematocrit 0.38 0.38 0.37 0.41 (0.35-0.48)
+MCV 90 88 87 92 fL (80-100)
+MCH 29.6 29.8 30.0 29.9 pg (27.0-32.0)
+MCHC 328 338 344 325 g/L (310-360)
+RDW 11.9 11.9 12.4 13.0 (10.0-15.0)
+WCC 7.7 8.4 9.3 7.9 x10*9/L (4.0-11.0)
+Neutrophils 4.32 4.50 4.69 4.11 x10*9/L (2.0-7.5)
+Lymphocytes 2.77 2.96 3.67 2.96 x10*9/L (1.0-4.0)
+Monocytes 0.52 0.76 0.63 0.59 x10*9/L (0.0-1.0)
+Eosinophils 0.07 0.11 0.22 0.17 x10*9/L (0.0-0.5)
+Basophils 0.04 0.07 0.04 0.04 x10*9/L (0.0-0.3)
+NRBC <1.0 <1.0 <1.0 <1.0 /100 WBC (<1)
+Platelets 221 267 234 261 x10*9/L (150-450)
+ESR 1 mm/h (1-22)
+
+Comments on Collection 31/01/24 0727 F:
+Full blood count is within reference limits
+
+NATA Accreditation No 2178
+
+Tests Completed: FBC (e)
+
+Tests Pending : LFT(s),C(s),UCreat(s),E(s),Glu(s),Phos(s),Iron(s),
+Lipids HDL(s),Ca(s),Mg(s),Vit D(s),TSH(s),HBsAb(s),
+HB-Sero, RubG(s)
+
+Sample Pending
+
+removed
+
+removed
+
+removed
+
+remoed
+Your Reference: Lab Reference: removed
+
+Laboratory: dhm
+
+removed
+
+Copy to:
+
+removed
+
+Name of Test: Biochemistry
+
+Requested: 30/01/2024 Collected: 31/01/2024 Reported: 31/01/2024 12:17
+Clinical notes: pregnancy planning
+Clinical Notes : pregnancy planning
+
+BIOCHEMISTRY
+
+Date 29/01/19 28/07/23 14/08/23 31/01/24
+
+Time F-Fast 1640 0839 F 1248 0727 F
+
+Lab ID 295348768 885515368 887902883 838828312 Units Reference
+
+removed
+
+Status Fasting Fasting
+
+Sodium 140 L 134 139 140 mmol/L (135-145)
+Potassium 4.9 5.5 4.8 4.5 mmol/L (3.5-5.5)
+Chloride 106 106 107 106 mmol/L (95-110)
+Bicarbonate 23 21 21 25 mmol/L (20-32)
+Urea 4.0 4.8 5.3 5.1 mmol/L (2.5-7.0)
+Creatinine 70 70 65 65 umol/L (45-85)
+eGFR >90 >90 >90 >90 mL/min/1.73m2 (>59)
+Calcium 2.40 mmol/L (2.15-2.55)
+Corr Calcium 2.34 mmol/L (2.15-2.55)
+Magnesium. 0.84 mmol/L (0.65-1.00)
+Phosphate. 1.08 mmol/L (0.8-1.5)
+Bili.Total 11 H 20 H 18 umol/L (3-15)
+
+ALP 59 60 70 U/L (20-105)
+GGT 13 11 15 U/L (5-35)
+
+LD 187 203 178 U/L (120-250)
+AST 19 25 23 U/L (10-35)
+
+ALT 16 12 22 U/L (5-30)
+Total Protein 76 70 72 g/L (68-85)
+Albumin 46 44 46 g/L (37-48)
+Globulin 30 26 26 g/L (23-39)
+Cholesterol 4.7 mmol/L (<5.5)
+Triglycerides 0.6 mmol/L (<2.0)
+
+Comments on Collection 31/01/24 0727 F:
+eGFR (mL/min/1.73m2) calculated by CKD-EPI formula - see www.kidney.org.au
+
+NATA Accreditation No 2178
+
+Tests Completed: LFT(s),C(s),UCreat(s),E(s),Glu(s),Phos(s),
+Lipids HDL(s),Ca(s),Mg(s),FBC(e)
+
+Tests Pending : Iron(s),Vit D(s),TSH(s),HBSAb(s),HB-Sero, RubG(s)
+
+Sample Pending
+
+removed
+
+removed
+
+removed
+
+remoed
+Your Reference: Lab Reference: removed
+
+Laboratory: dhm
+
+removed
+
+Copy to:
+
+removed
+
+Name of Test: _Glucose
+
+Requested: 30/01/2024 Collected: 31/01/2024 Reported: 31/01/2024 12:17
+Clinical notes: pregnancy planning
+Clinical Notes : pregnancy planning
+
+GLUCOSE
+
+Date 23/12/17 24/09/18 28/07/23 31/01/24
+
+Time F-Fast 0825 F 1100 0839 F 0727 F
+
+Lab ID 266516640 282139635 885515368 838828312 Units Reference
+F Gluc Plasma 4.5 4.7 mmol/L (3.6-6.0)
+R Gluc Plasma 4.5 mmol/L (3.6-7.8)
+F Gluc Serum 4.8 mmol/L (3.6-6.0)
+
+Comments on Collection 31/01/24 0727 F:
+
+Diabetes is unlikely if fasting glucose levels are less than 5.5 mmol/L but
+an OGTT could be indicated in the presence of risk factors such as
+metabolic syndrome, past gestational diabetes, polycystic ovary or family
+history of type 2 diabetes.
+
+NATA Accreditation No 2178
+
+removed
+
+Tests Completed: LFT(s),C(s),UCreat(s),E(s),Glu(s),Phos(s),
+Lipids HDL(s),Ca(s),Mg(s),FBC(e)
+
+Tests Pending : Iron(s),Vit D(s),TSH(s),HBSAb(s),HB-Sero, RubG(s)
+
+Sample Pending
+
+removed
+
+removed
+
+removed
+
+remoed
+Your Reference: Lab Reference: removed
+
+Laboratory: dhm
+
+removed
+
+Copy to:
+
+removed
+
+Name of Test: Lipids HDL(s)
+
+Requested: 30/01/2024 Collected: 31/01/2024 Reported: 31/01/2024 12:17
+Clinical notes: pregnancy planning
+Clinical Notes : pregnancy planning
+
+Date 23/12/17 31/01/24
+
+Time F-Fast 0825 F 0727 F
+
+Lab ID 266516640 838828312 Units Reference
+Status Fasting Fasting
+
+Cholesterol L 3.8 4.7 mmol/L (<5.5)
+Triglycerides 0.5 0.6 mmol/L (<2.0)
+HDL Chol. 1.6 2.0 mmol/L (>1.2)
+LDL Chol. 2.0 2.4 mmol/L (<3.0)
+Non-HDL Chol. 2.7 mmol/L (<4.0)
+
+Comments on Collection 31/01/24 0727 F:
+
+Please note that the above reference limits are decision limits.
+
+A flag based on these limits is an indication to review the absolute
+cardiovascular risk for the patient. For assessment of absolute
+cardiovascular disease risk please see www.cvdcheck.org.au
+
+The above decision limits are based on the European Atherosclerosis Society
+(EAS) and European Federation of Clinical Chemistry and Laboratory Medicine
+(EFLM) Consensus Statement 2016 and the Australasian Association of
+Clinical Biochemistry and Laboratory Medicine (AACB) Lipid Reporting
+Guideline 2018.
+
+Lipid treatment targets for patients at high risk of cardiovascular
+disease:
+
+Total cholesterol <4.0 mmol/L
+
+Triglyceride <2.0 mmol/L
+
+HDL cholesterol >1.0 mmol/L
+
+LDL cholesterol <2.5 mmol/L (<1.8 mmol/L for very high risk)
+Non-HDL cholesterol <3.3 mmol/L (<2.5 mmol/L for very high risk)
+High risk - Primary prevention Very high risk - Secondary prevention
+
+Target values from the AACB Lipid Reporting Guideline 2018.
+
+Please note that as there is a continuum of risk, benefits are obtained for
+any measured lipid components moving towards and beyond the various target
+levels.
+
+NATA Accreditation No 2178
+
+Tests Completed: LFT(s),C(s),UCreat(s),E(s),Glu(s),Phos(s),
+Lipids HDL(s),Ca(s),Mg(s),FBC(e)
+
+Tests Pending : Iron(s),Vit D(s),TSH(s),HBSAb(s),HB-Sero, RubG(s)
+
+Sample Pending
+
+removed
+
+removed
+removed
+removed
+remoed
+Laboratory: dhm
+removed
+Copy to:
+removed
+
+Name of Test: Hep B Serology
+Requested: 30/01/2024 Collected: 31/01/2024 Reported: 01/02/2024 02:47
+
+Clinical notes: pregnancy planning
+
+Clinical Notes : pregnancy planning
+
+Hepatitis B Serology
+
+Hepatitis B Surface Ab 31 IU/L
+Comment on Lab ID 838828312
+
+Hepatitis B - Immune (>/=10 IU/L).
+
+NATA Accreditation No 2178
+
+Tests Completed: LFT(s),C(s),UCreat(s),E(s),Glu(s),Phos(s),Iron(s),
+Lipids HDL(s),Ca(s),Mg(s),TSH(s),HBsAb(s),HB-Sero,
+FBC (e) , RubG (s)
+
+Tests Pending : Vit D(s)
+
+Sample Pending
+
+removed
+
+removed
+
+removed
+
+remoed
+
+Laboratory: dhm
+
+removed
+
+Copy to:
+
+removed
+
+Name of Test: Rubella IgG, IgM
+
+Requested: 30/01/2024 Collected: 31/01/2024 Reported: 01/02/2024 02:47
+Clinical notes: pregnancy planning
+Clinical Notes : pregnancy planning
+
+Rubella Serology
+Rubella IgG (CMIA) 11 IU/mL
+
+Comment on Lab ID 838828312
+
+<5 IU/mL: Not immune
+5-9 IU/mL: Equivocal
+>/=10 IU/mL: Immune
+
+Antibody detected. In an asymptomatic individual this result is consistent
+with past infection or vaccination and correlates with protective
+immunity.
+
+removed
+
+NATA Accreditation No 2178
+
+Tests Completed: LFT(s),C(s),UCreat(s),E(s),Glu(s),Phos(s),Iron(s),
+Lipids HDL(s),Ca(s),Mg(s),TSH(s),HBsAb(s),HB-Sero,
+FBC (e) , RubG (s)
+
+Tests Pending : Vit D(s)
+
+Sample Pending
+
+removed
+
+removed
+
+removed
+
+remoed
+Your Reference: Lab Reference: removed
+
+Laboratory: dhm
+
+removed
+
+Copy to:
+
+removed
+
+Name of Test: Vit D(s)
+
+Requested: 30/01/2024 Collected: 31/01/2024 Reported: 01/02/2024 05:17
+Clinical notes: pregnancy planning
+Clinical Notes : pregnancy planning
+
+Date 28/07/23 31/01/24
+
+Time F-Fast 0839 F 0727 F
+
+Lab ID 885515368 838828312 Units Reference
+Vitamin D 73 83 nmol/L (50-140)
+
+Comments on Collection 31/01/24 0727 F:
+
+According to the Position Statement 'Vitamin D and health in adults in
+Australia and New Zealand' MJA, 196(11):686-687, 2012, Vitamin D status is
+defined as:
+
+Mild Deficiency 30 - 49 nmol/L
+Moderate Deficiency 12.5 - 29 nmol/L
+Severe Deficiency <12.5 nmol/L
+
+Vitamin D adequacy can be defined as a level >49 nmol/L at the end of
+winter - the level may need to be 10 - 20 nmol/L higher at the end of
+summer, to allow for seasonal decrease.
+
+From lst November 2014, Medicare rebates for vitamin D testing will apply
+to patients at risk of Vitamin D deficiency such as chronic lack of sun
+exposure.
+
+NATA Accreditation No 2178
+
+Tests Completed: LFT(s),C(s),UCreat(s),E(s),Glu(s),Phos(s),Iron(s),
+Lipids HDL(s),Ca(s),Mg(s),Vit D(s),TSH(s),HBsAb(s),
+HB-Sero, FBC (e) ,RubG(s)
+
+Tests Pending
+
+Sample Pending
+
+removed
+
+removed
+
+removed
+
+remoed
+
+Laboratory: dhm
+
+removed
+
+Copy to:
+
+removed
+
+Name of Test: Iron Studies
+
+removed
+
+Requested: 30/01/2024 Collected: 31/01/2024 Reported: 01/02/2024 02:47
+
+Clinical notes: pregnancy planning
+Clinical Notes : pregnancy planning
+
+IRON
+
+Date 23/12/17 29/01/19 28/07/23 31/01/24
+
+Time F-Fast 0825 F 1640 0839 F 0727 F
+
+Lab ID 266516640 295348768 885515368 838828312 Units Reference
+Tron 11.5 12.2 24.9 umol/L (5.0-30.0)
+Transferrin 2.2 2.5 2.7 g/L (2.0-3.6)
+TIBC (Calc) 50 56 60 umol/L (46-77)
+Saturation 23 22 42 % (10-45)
+Ferritin 38 79 39 47 ug/L (15-200)
+
+NATA Accreditation No 2178
+
+Tests Completed: LFT(s),C(s),UCreat(s),E(s),Glu(s),Phos(s),Iron(s),
+Lipids HDL(s),Ca(s),Mg(s),TSH(s),HBsAb(s),HB-Sero,
+FBC (e) , RubG (s)
+
+Tests Pending : Vit D(s)
+
+Sample Pending
+
+removed
+
+removed
+
+removed
+
+remoed
+Your Reference: Lab Reference: removed
+
+Laboratory: dhm
+
+removed
+
+Copy to:
+
+removed
+
+Name of Test: Thyroid Function
+
+Requested: 30/01/2024 Collected: 31/01/2024 Reported: 01/02/2024 02:47
+Clinical notes: pregnancy planning
+Clinical Notes : pregnancy planning
+
+TFT
+
+Date 23/12/17 24/09/18 14/08/23 31/01/24
+
+Time F-Fast 0825 F 1100 1248 0727 F
+
+Lab ID 266516640 282139635 887902883 838828312 Units Reference
+TSH 1.14 1.18 1.57 2.99 mIU/L (0.40-3.50)
+
+NATA Accreditation No 2178
+
+Tests Completed: LFT(s),C(s),UCreat(s),E(s),Glu(s),Phos(s),Iron(s),
+Lipids HDL(s),Ca(s),Mg(s),TSH(s),HBsAb(s),HB-Sero,
+FBC (e) , RubG (s)
+
+Tests Pending : Vit D(s)
+
+Sample Pending
+
+removed
+
+removed
+
+removed
+
+remoed
+
+Laboratory: dhm
+
+removed
+
+removed
+
+Name of Test: _ Pregnancy
+Requested: 02/02/2024 Collected: 02/02/2024 Reported: 13/02/2024 17:17
+Clinical notes: NO HISTORY,
+
+Clinical Notes : NO HISTORY,
+
+HCG / PREGNANCY
+
+Date 29/01/19 02/02/24
+
+Time 1640 1429
+
+Lab ID 295348768 839050249 Units Reference
+BhcG (Abbott) <5 <5 IU/L
+
+Comments on Collection 02/02/24 1429:
+Expected values for normal pregnancy
+
+Gestational age (from LMP) IU/L
+
+4 weeks 16 - 160
+4-5 weeks 100 - 5000
+5-6 weeks 1000 - 30000
+6-7 weeks 2500 - 80000
+7-8 weeks 23000 - 150000
+8-9 weeks 27000 - 230000
+9-13 weeks 21000 - 290000
+2nd trimester 6000 - 100000
+3rd trimester 3000 - 80000
+
+Non Pregnant female - less than 5 IU/L
+
+NATA Accreditation No 2178
+
+Tests Completed: HCG Quant(s),Ca(s),RU-Malb, PTH(e),MSU,Urinel, Urine2, Urine3
+Tests Pending
+Sample Pending
+
+removed
+
+removed
+
+removed
+
+remoed
+Your Reference: Lab Reference: removed
+
+Laboratory: dhm
+
+removed
+
+Name of Test: Biochemistry
+
+Requested: 02/02/2024 Collected: 02/02/2024 Reported: 13/02/2024 17:17
+Clinical notes: NO HISTORY,
+
+Clinical Notes : NO HISTORY,
+
+BIOCHEMISTRY
+
+Date 29/01/19 28/07/23 31/01/24 02/02/24
+
+Time F-Fast 1640 0839 F 0727 F 1429
+
+Lab ID 295348768 885515368 838828312 839050249 Units Reference
+Calcium 2.40 2.39 mmol/L (2.15-2.55)
+Corr Calcium 2.34 2.27 mmol/L (2.15-2.55)
+Albumin 46 44 46 H 49 g/L (37-48)
+
+NATA Accreditation No 2178
+
+Tests Completed: HCG Quant(s),Ca(s),RU-Malb, PTH(e),MSU,Urinel, Urine2, Urine3
+Tests Pending
+
+removed
+
+Sample Pending
+
+removed
+
+removed
+
+removed
+
+remoed
+Your Reference: Lab Reference: removed
+
+Laboratory: dhm
+
+removed
+
+Name of Test: RU-Malb
+
+Requested: 02/02/2024 Collected: 02/02/2024 Reported: 13/02/2024 17:17
+Clinical notes: NO HISTORY,
+
+Clinical Notes : NO HISTORY,
+
+Date 14/08/23 02/02/24
+
+Time 1248 1429
+
+Lab ID 887902883 839050249 Units Reference
+R U-Creatinine 3.9 4.4 mmol/L
+
+R U-Albumin 9.6 5.6 mg/L
+
+R U-Alb/Creat 2.5 1.3 mg/mmol (<3.5)
+
+NATA Accreditation No 2178
+
+Tests Completed: HCG Quant(s),Ca(s),RU-Malb, PTH(e),MSU,Urinel, Urine2, Urine3
+Tests Pending
+Sample Pending
+
+removed
+
+removed
+
+removed
+
+remoed
+Your Reference: Lab Reference: removed
+
+Laboratory: dhm
+
+removed
+
+Name of Test: MSU
+
+Requested: 02/02/2024 Collected: 02/02/2024 Reported: 13/02/2024 17:17
+Clinical notes: NO HISTORY,
+
+Clinical Notes : NO HISTORY,
+
+Urine
+
+pH 6 Protein Nil Glucose Nil
+
+Blood Trace Ketones Nil
+
+Specific gravity 1.007 (1.005 - 1.030)
+
+Microscopy
+
+Leucocytes 0 x10*6/L ( <10 )
+Erythrocytes 0 x10*6/L ( <10 )
+Epithelial cells 5 x10*6/L
+
+Culture No growth
+
+NATA Accreditation No 2178
+Tests Completed: HCG Quant(s),Ca(s),RU-Malb, PTH(e),MSU, Urinel, Urine2, Urine3
+
+Tests Pending
+Sample Pending
+
+removed
+
+removed
+
+removed
+
+removed
+
+remoed
+Your Reference: Lab Reference: 8removed
+
+Laboratory: dhm
+
+removed
+
+Name of Test: Biochemistry
+
+Requested: 05/02/2024 Collected: 05/02/2024 Reported: 13/02/2024 17:17
+Clinical notes: NO HISTORY
+
+Clinical Notes : NO HISTORY
+
+BIOCHEMISTRY
+
+Date 14/08/23 31/01/24 02/02/24 05/02/24
+
+Time F-Fast 1248 O727 F 1429 1341
+
+Lab ID 887902883 838828312 839050249 838828414 Units Reference
+Status Fasting Random
+
+Sodium 139 140 138 mmol/L (135-145)
+Potassium 4.8 4.5 4.5 mmol/L (3.5-5.5)
+Chloride 107 106 108 mmol/L (95-110)
+Bicarbonate 21 25 23 mmol/L (20-32)
+Urea 5.3 5.1 5.2 mmol/L (2.5-7.0)
+Creatinine 65 65 70 umol/L (45-85)
+eGFR >90 >90 >90 mL/min/1.73m2 (>59)
+Urate 0.20 0.21 mmol/L (0.15-0.40)
+Calcium 2.40 2.39 2.37 mmol/L (2.15-2.55)
+Corr Calcium 2.34 2.27 2.33 mmol/L (2.15-2.55)
+Phosphate. 1.08 1.06 mmol/L (0.8-1.5)
+Bili.Total H 18 10 umol/L (3-15)
+
+ALP 70 68 U/L (20-105)
+GGT 15 14 U/L (5-35)
+
+LD 178 185 U/L (120-250)
+AST 23 18 U/L (10-35)
+
+ALT 22 15 U/L (5-30)
+Total Protein 72 70 g/L (68-85)
+Albumin 46 H 49 45 g/L (37-48)
+Globulin 26 25 g/L (23-39)
+Cholesterol 4.7 4.2 mmol/L (<5.5)
+Triglycerides 0.6 0.9 mmol/L (<2.0)
+
+Comments on Collection 05/02/24 1341:
+eGFR (mL/min/1.73m2) calculated by CKD-EPI formula - see www.kidney.org.au
+
+NATA Accreditation No 2178
+
+Tests Completed: LFT(s),Lipids(s),C(s),UCreat(s),E(s),Glu(s),Phos(s),
+UA(s),Lipids HDL(s),Ca(s)
+
+Tests Pending
+
+Sample Pending
+
+removed
+
+removed
+
+removed
+
+remoed
+Your Reference: Lab Reference: removed
+
+Laboratory: dhm
+
+removed
+
+Name of Test: PTH (e)
+
+Requested: 02/02/2024 Collected: 05/02/2024 Reported: 13/02/2024 17:17
+
+removed
+
+Clinical notes: NO HISTORY,
+
+Clinical Notes : NO HISTORY,
+
+Parathyroid Hormone
+(Intact (1-84) PTH measured by Roche method.)
+
+Intact Parathyroid Hormone 3.5 pmol/L ( 1.6 - 6.9 )
+Calcium 2.39 mmol/L ( 2.15 - 2.55 )
+Corrected Calcium 2.27 mmol/L ( 2.15 - 2.55 )
+Albumin H 49 g/L ( 37 - 48 )
+
+Comment on Lab ID 839050249
+
+# Please note PTH(e) collection date: 05/02/2024 13:43
+
+NATA Accreditation No 2178
+
+Tests Completed: HCG Quant(s),Ca(s),RU-Malb, PTH(e),MSU,Urinel, Urine2, Urine3
+Tests Pending
+Sample Pending
+
+removed
+
+removed
+
+removed
+
+remoed
+Your Reference: Lab Reference: removed
+
+Laboratory: dhm
+
+removed
+
+Name of Test: _Glucose
+
+Requested: 05/02/2024 Collected: 05/02/2024 Reported: 13/02/2024 17:17
+Clinical notes: NO HISTORY
+
+Clinical Notes : NO HISTORY
+
+GLUCOSE
+
+Date 24/09/18 28/07/23 31/01/24 05/02/24
+
+Time F-Fast 1100 0839 F Q727 F 1341
+
+Lab ID 282139635 885515368 838828312 838828414 Units Reference
+F Gluc Plasma 4.7 mmol/L (3.6-6.0)
+R Gluc Plasma 4.5 mmol/L (3.6-7.8)
+F Gluc Serum 4.8 mmol/L (3.6-6.0)
+R Gluc Serum 5.5 mmol/L (3.6-7.7)
+
+NATA Accreditation No 2178
+
+Tests Completed: LFT(s),Lipids(s),C(s),UCreat(s),E(s),Glu(s),Phos(s),
+UA(s),Lipids HDL(s),Ca(s)
+
+Tests Pending
+
+Sample Pending
+
+removed
+
+removed
+
+removed
+
+remoed
+
+Laboratory: dhm
+
+removed
+
+Name of Test: Lipids HDL(s)
+
+removed
+
+Requested: 05/02/2024 Collected: 05/02/2024 Reported: 13/02/2024 17:17
+
+Clinical notes: NO HISTORY
+
+Clinical Notes : NO HISTORY
+
+Date 23/12/17 31/01/24 05/02/24
+
+Time F-Fast 0825 F O727 F 1341
+
+Lab ID 266516640 838828312 838828414 Units Reference
+Status Fasting Fasting Random
+
+Cholesterol L 3.8 4.7 4.2 mmol/L (<5.5)
+Triglycerides 0.5 0.6 0.9 mmol/L (<2.0)
+HDL Chol. 1.6 2.0 1.6 mmol/L (>1.2)
+LDL Chol. 2.0 2.4 2.2 mmol/L (<3.0)
+Non-HDL Chol. 2.7 2.6 mmol/L (<4.0)
+
+Comments on Collection 05/02/24 1341:
+
+Please note that the above reference limits are decision limits.
+
+A flag based on these limits is an indication to review the absolute
+cardiovascular risk for the patient. For assessment of absolute
+cardiovascular disease risk please see www.cvdcheck.org.au
+
+The above decision limits are based on the European Atherosclerosis Society
+(EAS) and European Federation of Clinical Chemistry and Laboratory Medicine
+(EFLM) Consensus Statement 2016 and the Australasian Association of
+Clinical Biochemistry and Laboratory Medicine (AACB) Lipid Reporting
+Guideline 2018.
+
+Lipid treatment targets for patients at high risk of cardiovascular
+
+disease:
+
+Total cholesterol <4.0 mmol/L
+
+Triglyceride <2.0 mmol/L
+
+HDL cholesterol >1.0 mmol/L
+
+LDL cholesterol <2.5 mmol/L (<1.8 mmol/L for very high risk)
+Non-HDL cholesterol <3.3 mmol/L (<2.5 mmol/L for very high risk)
+High risk - Primary prevention Very high risk - Secondary prevention
+
+Target values from the AACB Lipid Reporting Guideline 2018.
+
+Please note that as there is a continuum of risk, benefits are obtained for
+any measured lipid components moving towards and beyond the various target
+levels.
+
+NATA Accreditation No 2178
+
+Tests Completed: LFT(s),Lipids(s),C(s),UCreat(s),E(s),Glu(s),Phos(s),
+UA(s),Lipids HDL(s),Ca(s)
+
+Tests Pending
+
+Sample Pending
+
+removed
+
+removed
+
+removed
+
+remoed
+
+Laboratory: dhm
+
+removed
+Copy to:
+
+removed
+DR TIN KHIN
+DR SHAHEEN NAWAZ
+
+Name of Test: BP Monitor
+Requested: 03/02/2024 Collected: 06/02/2024 Reported: 13/02/2024 17:17
+Clinical notes: ? HYPERTENSION ?ANXIETY RELATED/WHITE COAT HYPERTENSION (NEEDS EXCLUDING)
+
+removed
+
+Clinical Notes : ? HYPERTENSION ?ANXIETY RELATED/WHITE COAT
+HYPERTENSION (NEEDS EXCLUDING)
+
+Ambulatory Blood Pressure Monitoring
+
+Start date and time 05/02/2024 13:52
+End date and time 06/02/2024 13:00
+Medications Please refer to patient diary for
+
+current medications.
+
+Average BP 127/85 mmHg (N.R. <130/80)
+Day
+Average BP 130/89 mmHg (N.R. <135/85)
+Night
+Average BP 120/72 mmHg (N.R. <120/75)
+Report Borderline hypertension. Non Dipper.
+
+Dr. Joseph Chiha
+
+Reported by Dr. Joseph Chiha
+Date reported 06/02/2024
+
+Comment on Lab ID 839308720
+
+The report above is based on a non-pregnant individual with no risk
+factors. The results need to be correlated with the individual's clinical
+background.
+
+The National Heart Foundation and High Blood Pressure Research Council of
+Australia Ambulatory Blood Pressure Committee guidelines (2012) stipulate
+the hypertensive threshold be lower for the following groups:
+
+1. People with associated clinical conditions or end-organ damage
+24 hour 125/76 Night 112/67 Day 128/78
+2. Hypertension with proteinuria >l g per day
+24 hour 121/71 Night 107/63 Day 124/74
+3. Pregnancy <22 weeks gestation 132/79
+
+22-30 weeks gestation 133/81
+>30 weeks gestation 135/86
+
+Reference: Head GA. et al Ambulatory blood pressure monitoring in
+Australia: 2011 consensus position statement. J Hypertens. 2012
+Feb; 30 (2) :253-66.)
+
+To access a PDF version of the report, copy and paste the URL below into your browser
+
+before 12-02-2025. Use PIN 7661.
+
+https://sdrviewer.apps.sonichealthcare.com/ ?GUID=FD73BA43-AE9C-4FA1-B54A-5A721557B246éhostCode=D
+HM&shareType=1l
+
+NATA Accreditation No 2178
+Tests Completed: BP Monitor
+
+Tests Pending
+Sample Pending
+
+removed
+
+removed
+
+removed
+
+remoed
+
+Laboratory: dhm
+
+removed
+
+removed
+
+Copy to:
+removed
+DR TIN KHIN
+DR SHAHEEN NAWAZ
+
+Name of Test: BP Monitor
+Requested: 03/02/2024 Collected: 06/02/2024 Reported: 06/02/2024 17:17
+Clinical notes: 2? HYPERTENSION ?ANXIETY RELATED/WHITE COAT HYPERTENSION (NEEDS EXCLUDING)
+
+Clinical Notes : ? HYPERTENSION ?ANXIETY RELATED/WHITE COAT
+HYPERTENSION (NEEDS EXCLUDING)
+
+Ambulatory Blood Pressure Monitoring
+
+Start date and time 05/02/2024 13:52
+End date and time 06/02/2024 13:00
+Medications Please refer to patient diary for
+
+current medications.
+
+Average BP 127/85 mmHg (N.R. <130/80)
+Day
+Average BP 130/89 mmHg (N.R. <135/85)
+Night
+Average BP 120/72 mmHg (N.R. <120/75)
+Report Borderline hypertension. Non Dipper.
+
+Dr. Joseph Chiha
+
+Reported by Dr. Joseph Chiha
+
+Date reported 06/02/2024
+
+Comment on Lab ID 839308720
+
+The report above is based on a non-pregnant individual with no risk
+factors. The results need to be correlated with the individual's clinical
+background.
+
+The National Heart Foundation and High Blood Pressure Research Council of
+
+Australia Ambulatory Blood Pressure Committee guidelines (2012) stipulate
+the hypertensive threshold be lower for the following groups:
+
+1. People with associated clinical conditions or end-organ damage
+24 hour 125/76 Night 112/67 Day 128/78
+2. Hypertension with proteinuria >l g per day
+24 hour 121/71 Night 107/63 Day 124/74
+3. Pregnancy <22 weeks gestation 132/79
+
+22-30 weeks gestation 133/81
+>30 weeks gestation 135/86
+
+Reference: Head GA. et al Ambulatory blood pressure monitoring in
+Australia: 2011 consensus position statement. J Hypertens. 2012
+Feb; 30 (2) :253-66.)
+
+To access a PDF version of the report, copy and paste the URL below into your browser
+
+before 05-02-2025. Use PIN 1919.
+https://sdrviewer.apps.sonichealthcare.com/ ?GUID=F74026BF-2 6 4A-4 9E9-8CF4-7025DBD8C5E5 éhostCode=D
+HMé&shareType=l
+
+NATA Accreditation No 2178
+Tests Completed: BP Monitor
+
+Tests Pending
+Sample Pending
+
+removed
+
+removed
+
+removed
+
+removed
+
+remoed
+Your Reference: 15992986 Lab Refremoved
+
+Laboratory: PRP Diagnostic Imaging
+
+removed
+
+Name of Test: US RENAL
+
+Requested: 02/02/2024 Collected: 10/02/2024 Reported: 10/02/2024 10:46
+
+removed
+removed
+==" ” Oo DOB:19/01/1989 Phone:
+wm Pe Gender :F Medicare Number:
+Click here to view images
+removed
+
+Referred By: -:
+Dr S. NAWAZ
+
+Copies:
+removed
+
+US RENAL 10/02/2024 Reference: 15992986
+ULTRASOUND URINARY TRACT
+
+HISTORY:
+Persistent Haematuria.
+
+COMPARISON:
+None available.
+
+FINDINGS:
+Right Kidney: 100 mm in length. There is no hydronephrosis, calculus
+or renal mass.
+
+Left Kidney: 104 mm in length. There is no hydronephrosis, calculus
+or renal mass.
+
+Bladder: Prevoid volume: 195 mL. Postvoid volume: 10 mL. The bladder
+is normal. Both ureteric jets were seen.
+
+COMMENT:
+No renal tract abnormality identified.
+
+Dr Mark Fiorentino
+
+Electronically verified by: Dr Mark Fiorentino - 10/02/2024 10:43
+
+Fully Rebatable 1.5T and 3T MRI - Same day appointments available at
+PRP Orange
+Click here to view images
+
+removed
+
+removed
+
+removed
+
+removed
+
+remoed
+Your Reference: 15992986 Lab Refremoved
+
+Laboratory: PRP Diagnostic Imaging
+
+removed
+
+Name of Test: US RENAL
+
+Requested: 02/02/2024 Collected: 10/02/2024 Reported: 10/02/2024 10:46
+
+removed
+removed
+=—_—— — ; .. 7 DOB:19/01/1989 Phone:
+ns Gender: F Medicare Number:
+Click here to view images
+removed
+
+Referred By: -:
+Dr S. NAWAZ
+
+Copies:
+removed
+
+US RENAL 10/02/2024 Reference: 15992986
+ULTRASOUND URINARY TRACT
+
+HISTORY:
+Persistent Haematuria.
+
+COMPARISON:
+None available.
+
+FINDINGS:
+Right Kidney: 100 mm in length. There is no hydronephrosis, calculus
+or renal mass.
+
+Left Kidney: 104 mm in length. There is no hydronephrosis, calculus
+or renal mass.
+
+Bladder: Prevoid volume: 195 mL. Postvoid volume: 10 mL. The bladder
+is normal. Both ureteric jets were seen.
+
+COMMENT :
+No renal tract abnormality identified.
+
+Dr Mark Fiorentino
+
+Electronically verified by: Dr Mark Fiorentino - 10/02/2024 10:43
+
+Fully Rebatable 1.5T and 3T MRI - Same day appointments available at
+PRP Orange
+Click here to view images
+
+removed
+removed
+removed
+
+removed
+

@@ -1,0 +1,315 @@
+ 
+
+HAEMATOLOGY
+
+ 
+15
+BLOOD - EDTA Result Range Units
+
+ESR 2 0-20 mm/h @
+
+FULL BLOOD EXAMINATION
+HAEMOGLOBIN 122 110-150 g/L a @ a
+Erythrocytes (RBCs) 46 42-56 i | e a
+Mean Cell Volume 102.0*H 78.0-98.0 — f a di
+Mean Cell Hb 27.0 26.0-34.0 pg a @ a
+MCHC 29.0*L 31.0-370 pol fe a
+Haematocrit 47.0 35.0 - 47.0 % a @ a
+PLATELETS 338 150 - 450 ‘oro. i e a
+LEUCOCYTES (WBCs) 7.3 4.0- 11.0 1049/L a @ a
+Neutrophils 4.8 2.0-7.5 1o.o/L @ a
+Lymphocytes 1.8 1.0-4.0 a | @ a
+Monocytes 0.5 0.0 - 1.0 1049/L @ pe
+Eosinophils 0.2 0.0 - 0.6 1049/L e ||
+Basophils 0.1 0.0 - 0.2 1049/L @ p
+RDW 15.6*H 11.0- 15.5 percent [ij e
+
+Film Comment
+
+Test performed by accredited laboratory NATA: 
+
+
+ 
+
+BLOOD - SERUM Result Range Units
+
+UEC (Renal)
+SODIUM 138 135 - 145 mmol/L e@ a
+POTASSIUM 4.5 3.5 - 5.2 mmol/L e a
+CHLORIDE 102 95-110 mmol/L e a
+BICARBONATE 24 20 - 32 mmol/L e a
+Anion Gap 16 8-16 mmol/L e a
+UREA 3.7 2.5-7.0 mmol/L e@ a
+CREATININE (mmol/L) 0.06 0.05 - 0.10 mmol/L e@ a
+Creatinine 62 45 - 90 umol/L e@ a
+
+Estimated GFR >90 > 90 ml/min/1 ___- e
+
+ 
+
+*) Result outside normal reference range H) Result is above upper limit of reference rang (L) Result is below lower limit of reference range
+
+ 
+
+ 
+
+UEC Comment
+
+ELEVATED ANION GAP:
+
+An elevated anion gap indicates metabolic acidosis. In uncontrolled diabetes, there is
+an increase in ketoacids due to metabolism of ketones. In these conditions, bicarbonate
+concentrations decrease by acting as a buffer against the increased presence of acids
+(as a result of the underlying condition). The bicarbonate is consumed resulting in a
+high anion gap.
+
+ESTIMATED GFR COMMENT:
+eGFR (mL/min/1.73m2) is calculated by the laboratory using the CKD-EPI formula
+eGFR > 90 mL/min/1.73 sq.m —- Normal GFR
+
+LIVER FUNCTION TESTS
+
+BILIRUBIN (TOTAL) 13 0-20 umol/L e |
+ALP 97 30 - 110 units/L @ a
+GGT 23 5 - 35 units/L @ a
+ALT 33 10-35 units/L a @ a
+AST 25 10-35 units/L a r a
+PROTEIN - TOTAL 69 60-80 g/L a @ a
+ALBUMIN 35 33-48 g/L a e a
+GLOBULIN 33 26-39 g/L a @ a
+Corrected Calcium Profile
+CALCIUM 2.36 215-260 mmol/L Jy e a
+Calcium Adjusted 2.46 210-260 mmol/L e a
+PHOSPHATE 1.1 06-14 mmol/L i e a
+MAGNESIUM 0.77. 070-110 mm e a
+LDH 169 120-250 units/L @ a
+URATE 0.330 015-040 mmol e a
+IRON STUDIES
+IRON 7.8 5.0-30.0 umo/L e a
+TRANSFERRIN 28 18-35 g/L a e a
+Transferrin Saturation 77*L 15-45 %o a @ a
+FERRITIN 32 30-150 ug/L sos e a
+
+(*) Result outside normal reference range (H) Result is above upper limit of reference rang (L) Result is below lower limit of reference range
+
+ 
+
+Iron Studies Comment
+
+Certain medications may affect results. Please correlate clinically.
+For assistance, please refer to the Iron Studies Interpretation Table below:
+
+| CONDITION/SYMPTOM | IRON | TRANSFERRIN SATURATION | FERRITIN |
+| Inon Deficiency | Decreased | Decreased ——'||-:‘Decreased =|
+| Iron Deficiency and | | Normal or |. "Normal" =|
+| Acute Phase Response | Decreased | Decreased | <100 ug/L |
+| Acute Phase Response | Decreased | Decreased -—«'||:“*Increased =|
+| ‘Tron Overload —«||.:«Increased | ~—‘ Increased =—S—=|sIncreased =|
+
+FERRITIN COMMENT :
+Serum ferritin levels >30 pg/L demonstrates healthy iron stores as long as co-existing
+inflammatory disease or hepatocellular damage are not present.
+
+25 OH VITAMIN D 77. 50-200 nmol/L i e a
+Vitamins Comment
+
+VITAMIN D COMMENT:
+Levels above 75 nmol/L may be desirable in people with osteoporosis or falls.
+25-hydroxy Vitamin D represents the body's stores/reserves level.
+
+Vitamin D Deficiency Interpretation:
+
+Mild: 30-49 nmol/l
+Moderate: 12.5-29 nmol/1
+Severe: <12.5 nmol/l
+
+(“) Result outside normal reference range (H) Result is above upper limit of reference rang (L) Result is below lower limit of reference range
+
+ 
+
+ 
+
+LIPIDS
+
+ 
+
+ 
+
+CHOLESTEROL 5.0 0.0 - 5.5 mmol/L @
+TRIGLYCERIDES 2.8*H 0.0- 2.0 mmol/L
+LIPID STUDIES
+HDL(Protective) 0.8*L 1.2-2.0 mmol/L He
+Non-HDL Cholesterol 4.23*H <4.0 mmol/L ry
+LDL(Atherogenic) 3.0 0.0 - 3.4 mmol/L e
+Cholesterol/HDL Ratio 6.6
+LDL/HDL RATIO (Risk Factor) 3.9*H 0.0-3.2
+Trig/HDL Ratio 3.7*H 0.5-1.7 RATIO a
+(*) Result outside normal reference range (H) Result is above upper limit of reference rang (L) Result is below lower limit of reference range
+
+ 
+
+Lipid Profile Comment
+
+Target Levels for the general population and the National Vascular Disease Prevention
+Alliance (NVDPA) treatment target levels for high-risk people (known coronary heart and
+other arterial diseases, diabetes, chronic renal failure, Aboriginal and Torres Strait
+Islander peoples and familial hyperlipidaemic conditions) are:
+
+Tot. Cholesterol LDL-Cholesterol HDL-Cholesterol
+General population: <5.5 mmol/L <2.0 mmol/L M: >=1.0, F: >=1.2 mmol/L
+At risk individuals: <4.0 mmol/L <1.8 mmol/L
+Fasting Triglycerides: <2.0 mmol/L
+Non-HDL Cholesterol: <2.5 mmol/L
+
+National guidelines generally specify specific targets, refer to www.cvdcheck.org.au
+
+ELEVATED TRIGLYCERIDES:
+
+Increased levels are seen in primary hypertriglyceridaemic states, and secondary to
+Nephrotic syndrome, Hypothyroidism, Pancreatitis, Diabetes mellitus, Alcoholism, oral
+contraceptive use or corticosteroid medication.
+
+LOW HDL-CHOLESTEROL :
+
+Low levels of HDL cholesterol and high levels of LDL cholesterol are associated with an
+increased risk of atherosclerotic vascular disease.
+
+Further assessment through Liposcreen LDL (Lipid) Subfractions to determine any other
+lipid anomalies.
+
+ELEVATED NON-HDL CHOLESTEROL LEVEL:
+
+Non-HDL cholesterol surpasses LDL cholesterol as a risk factor for CVD. Increased
+non-HDL Cholesterol is a significant marker for subclinical atherosclerosis.
+Non-HDL Cholesterol >7.5mmol/L indicates an Increased risk of Familial
+Hypercholesterolaemia.
+
+TRIG/HDL RATIO COMMENT:
+
+HDL is closely related to triglycerides. Commonly, patients with elevated triglycerides
+also have low HDL levels, along with elevated clotting factor levels.
+
+The triglyceride/HDL ratio is found to be one of the better predictors of heart
+disease. Research shows that people with an elevated triglyceride/HDL have 16 times the
+risk of heart attack as those with a low/normal ratio. Therefore, in adults, the
+triglyceride/HDL ratio should ideally be below 2.0
+
+TRIG/HDL Reference Range:
+
+< 0.9 Considered ideal (minimal risk)
+
+> 1.7 High (moderate risk)
+
+> 2.6 Very High (high risk)
+
+GLUCOSE (FASTING) 6.6*H 3.0-5.4 mmol/L a He
+(“) Result outside normal reference range (H) Result is above upper limit of reference rang (L) Result is below lower limit of reference range
+
+ 
+
+Glucose Comment
+
+ELEVATED FASTING GLUCOSE:
+
+Certain medications may affect results. Please correlate clinically.
+
+In patients with fasting plasma glucose levels between 5.6-6.9 mmol/L or random plasma
+glucose levels between 7.8-11.0 mmol/L, an oral Glucose Tolerance Test (GTT) should be
+performed if the patient is at high risk for diabetes.
+
+Irrespective of any GTT results, a fasting plasma glucose 6.1-6.9 mmol/L indicates
+Impaired Fasting Glucose.
+
+In a patient with symptoms suggestive of Diabetes mellitus, the finding of a fasting
+plasma glucose of > 7.0 mmol/L at least two hours following a meal, is diagnostic of
+Diabetes mellitus. The finding of either of these levels on two occasions, even in the
+absence of symptoms, is also diagnostic of Diabetes mellitus.
+
+INSULIN (FASTING) 34.1*H 0.0- 17.0 mU/L ile
+HOMA Score 10.0*H 0.0-2.5 RATIO ile
+Insulin Tolerance Test Comment
+
+FASTING INSULIN Comment:
+
+This reference interval is for fasting, normoglycaemic and non-obese population.
+
+A fasting glucose should be performed together with fasting insulin to ascertain the
+HOMA score.
+
+The HOMA score is a standard measure of insulin resistance, It is calculated as
+follows; (Blood Glucose X Fasting Insulin) / 22.5.
+
+HOMA Resistance Grade
+
+<= 2.0 Normal
+
+2.1 - 2.2 Borderline
+
+2.3 - 3.0 Moderate
+
+>= 3.1 Severe
+
+BLOOD - EDTA
+
+GLYCOSYLATED HB 5.9*H 4.4-5.6 % a ai
+
+Glycated Haemoglobin Comment GLYCOSYLATED HAEMOGLOBIN COMMENT:
+The goal of diabetes therapy should be a glycated haemoglobin (HbA Ic) level of <7%.
+The treatment level should be re-evaluated if the HbAIc level is > 8%.
+
+ENDOCRINOLOGY
+
+BLOOD - SERUM Result Range Units
+THYROID FUNCTION ASSESSMENT
+TSH 2.36  0.50-5.00 mU/L e a
+FREE T4 16.9 12.0 - 22.0 pmol/L a e@ a
+FREE T3 6.3 3.1 - 6.8 pmolL e@ a
+Reverse T3 545.0*H 230.0-540.0 pmol/L e
+FT3 : Reverse T3 Ratio ( X 100) 1.161 *L 1.200 - 2.200 a e a
+(“) Result outside normal reference range (H) Result is above upper limit of reference rang (L) Result is below lower limit of reference range
+
+ 
+
+THYROID TEST COMMENTS
+
+TSH has been adopted as the initial test of a thyroid function. Certain medications and
+conditions may affect results. Please correlate clinically. Repeat testing in 6-8 weeks
+if clinically indicated.
+
+Reference ranges developed using populations without thyroid disease suggest that the
+optimal TSH range for thyroid function should be 0.5-2.0OmIU/L.
+
+FREE T4 and FREE T3
+
+Free T4 and T3 represent bioactive portion of thyroid hormone. The test results can
+identify functional or subclinical hyper- and hypothyroidism and overt hypo- and
+hyperthyroidism. T4 converts to active T3 or inactive rT3.
+
+The results should always be interpreted in association with TSH.
+
+REVERSE T3 levels can increase when peripheral conversion of T4 to active T3 is
+impaired. Peripheral thyroid imbalances may arise from nutrient deficiencies, heavy
+metal exposure, adrenal stress, enzyme deficiencies, and chronic illnesses.
+
+ELEVATED REVERSE T3 LEVEL:
+
+A high or high normal rT3 level may inhibit the action of T3.
+
+Elevated rT3 may therefore lead to symptoms of hypothyroidism even if levels of TSH, T4
+& T3 are adequate.
+
+Treatment Considerations:
+
+Consider T3 therapy
+Assess and treat iron, selenium, iodine and zinc
+
+THYROID AUTO-Abs
+
+THYROID PEROXIDASE Ab. 9.0 0.0 - 35.0 [U/mL e pS
+ANTITHYROGLOBULIN Ab. 12.9 0.0-115 [U/mL @ ||
+TSH RECEPTOR AB 0.8 0.0-1.8
+
+Tests ordered: TSHA,ESR,HBA1C,INSF,LDH,MG,PHOS,URAT,FBE,IS,FATS,LFT,FGLU,LIP,UEC, TFA,ITTCOM,Corca
+Pro,eGFR,UECom,GLUCom,IMPEI,GHBCOM,VITD,THAB,CFee, HOMA
+(“) Result outside normal reference range (H) Result is above upper limit of reference rang (L) Result is below lower limit of reference range
+

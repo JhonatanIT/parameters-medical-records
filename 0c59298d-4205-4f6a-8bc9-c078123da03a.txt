@@ -1,0 +1,140 @@
+iilaverty -—- Pathology Report resuits @RCPA
+
+pathology ENQUIRIES tet cramer NF
+removed
+removed
+removed
+Phone
+D.O.B XXXXXXXXXXX
+
+
+
+removed
+
+Reported 18/01/2024 05:13 PM
+
+Tests requested SOM, HOR, AND, PRL, COR, MBA
+
+Clinical notes
+
+INSULIN-LIKE GROWTH FACTOR-1 (IGF-1)
+Specimen Type: Serum
+IGF-1 (Somatomedin C) 37 nmol/L (10-32)
+
+Insulin-like growth factor 1 (IGF1) and insulin-like growth
+factor-binding protein 3 (IGFBP3) measurements can be used to assess
+growth hormone (GH) excess or deficiency. For all applications, IGF1
+measurement has generally been shown to have superior diagnostic
+accuracy. In particular, for the diagnosis and follow-up of acromegaly
+and gigantism, IGFBP3 measurement adds little extra diagnostic
+information.
+
+Elevated IGF1 levels support the diagnosis of acromegaly or gigantism in
+individuals with appropriate symptoms or signs. In successfully treated
+patients, levels should be within the reference interval, ideally within
+the lower third.
+
+SERUM HORMONE PROFILE
+Specimen Type: Serum
+
+Request Date FSH LH PROG E2(ATEL) E2(BECK) LH/FSH
+Number Collected IU/L IU/L nmol/L pmol/L pmol/L Ratio
+26777050 18 Jan 24 <1 <0.1 < 1 296
+Reference Ranges FSH LH PROG E2(ATEL)
+Males < 60 yrs <7 <7 0.9-3.9 <150
+
+> 60 yrs <14 <11 0.9-3.9 <150
+
+PLEASE NOTE:
+'E2 (ATEL)' - Oestradiol by Siemens Atellica assay
+'E2 (BECK)' - Oestradiol by Beckman Access assay
+
+SURGERY
+USE
+SERUM ANDROGENS Normal
+Total Testosterone (Siemens) 39.2 nmol/L (8.3-29)
+Sex Hormone Binding Globulin 34 nmol/L (11-71) No ActionFile
+DHEAS 4.4  umol/L (3.0-10) |
+Calculated Free Testosterone 977.4 pmol/L (255.0-725.0) nen
+Make
+Appoint.
+Further Tests
+Notes
+Required
+Speak
+with Dr
+
+1 of ? On Correct
+
+Treatment
+
+LAV_RTE001_AV3_07/23
+
+hl laverty Pathology Report Resutts ORCPA mm
+
+ENQUIRIES Accredited for compliance win» WA
+
+pathology NPAAC Standards and ISO 15189 pon RE ans ei
+removed
+removed
+removed
+removed 
+Phone
+D.O.B XXXXXXXXXXX Mm
+
+
+
+removed
+
+Reported 18/01/2024 05:13 PM
+Tests requested SOM, HOR, AND, PRL, COR, MBA
+Clinical notes
+PROLACTIN
+Specimen Type: Serum
+Request Date Prolactin
+Number Collected mIU/L
+
+Ref Range (40-450)
+
+26777050 18/01/24 135
+
+SERUM CORTISOL
+
+Time 08:50
+Cortisol 459 nmol/L
+
+AM Reference Interval 120-620 nmol/L
+
+SERUM CHEMISTRY
+Specimen Type: Serum
+
+Haemolysis Nil
+Icterus Nil
+Lipaemia Nil
+Albumin 42 g/L (38-50)
+
+SURGERY
+USE
+
+Normal
+No ActionFile
+Patient
+
+Notified
+
+Make
+Appoint.
+
+Further Tests
+Notes
+Required
+
+Speak
+with Dr
+
+? of ? On Correct
+
+Treatment
+
+LAV_RTE001_AV3_07/23
+
