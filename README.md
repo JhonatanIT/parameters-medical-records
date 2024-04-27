@@ -8,7 +8,7 @@ In this assessment I will process parameters, values and units found in text dat
 
 - **Managing missing and even values**: I have to replace some even values, like replacing "o" by "0" to accurately process number values.
 
-- Managing duplicate values: Discarding duplicates using defaultdict(list) function and getting the last value in each array.
+- **Managing duplicate values**: Discarding duplicates using defaultdict(list) function and getting the last value in each array.
 
 - **Find a correct model to process the text data**: My first approach was using NLP, but when I tried to normalize and skip stop words, many words, as well as numeric values were discarded. So, I implement a rule-based model using regular expressions to overcome this challenge. I use 4 regular expressions:
 
