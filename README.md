@@ -12,15 +12,18 @@ In this assessment I will process parameters, values and units found in text dat
 
 - **Find a correct model to process the text data**: My first approach was using NLP, but when I tried to normalize and skip stop words, many words, as well as numeric values were discarded. So, I implement a rule-based model using regular expressions to overcome this challenge. I use 4 regular expressions:
 
-	> Scientific notation: "\s+(\d*\.*\d+\s*x10[\*|°]?\d+)\s*(\w*\/?[a-z]+\/?[\w.]*|\s*%)"
-	
-  > Range: "[\(|\{]?(\d+\.?\d*[-\s]+\d+\.?\d*)[\)|\}]?\s*(\w*\/?[a-z]+\/?[\w.]*|\s*%)"
+	    Scientific notation: \s+(\d*\.*\d+\s*x10[\*|°]?\d+)\s*(\w*\/?[a-z]+\/?[\w.]*|\s*%)
+	![Scientific notation](https://i.imgur.com/zB8MZHX.png)
 
-  > Greater or less: "\s+[\(|\{]?([>|<]\s?\d*\.*\d+)[\)|\}]?\s*(\w*\/?[a-z]+\/?[\w.]*|\s*%)"
+      Range: [\(|\{]?(\d+\.?\d*[-\s]+\d+\.?\d*)[\)|\}]?\s*(\w*\/?[a-z]+\/?[\w.]*|\s*%)
+	![Range](https://i.imgur.com/JQu8bEV.png)      
 
-  > Number: "\s+(\d*\.*\d+)[\)|\}]?\s*(\w*\/?[a-z]+\/?[\w.]*|\s*%)"
+      Greater or less: \s+[\(|\{]?([>|<]\s?\d*\.*\d+)[\)|\}]?\s*(\w*\/?[a-z]+\/?[\w.]*|\s*%)
+	![Greater or less](https://i.imgur.com/lARNd7o.png)
 
-  
+      Number: \s+(\d*\.*\d+)[\)|\}]?\s*(\w*\/?[a-z]+\/?[\w.]*|\s*%)
+	![Number](https://i.imgur.com/DZ5dWYB.png)
+
 
 - **Managing validations**: Sometimes a line text passes a regular expression, but I have to make an additional validation, like when I found a parameter's value that it is already included in the parameter name or synonym i.e. I found 27.29 and the synonym is "CA 27.29".
 
@@ -40,6 +43,16 @@ In this assessment I will process parameters, values and units found in text dat
 
 		{"Abbreviation": "LPSE", "Synonyms": ["Pancreatic Lipase", "Serum Lipase", "Lipase Enzyme", "Lipolytic Enzyme", "LPSE Test", "Lipase Assay", "Pancreatic Enzyme", "Gastric Lipase", "Digestive Enzyme", "Pancreatic Esterase"]}
 
+## Execution
+Run the following command to execute the solution
+
+    python .\parameters-by-test-results.py
+
+> Replace the line 18 with the file text that you want to process. (Now it is "0ab9800e-bc9a-4388-aaa2-d4fc05e7d111.txt")
+
+## Output example
+
+![Dictionary output](https://i.imgur.com/RC4AOvu.png)
 
 
 ## Tools
